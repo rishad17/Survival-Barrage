@@ -66,9 +66,9 @@ Make sure your terminal or IDE supports OpenGL windows.
 | **S**                    | Move Backward                                          |
 | **A / D**                | Rotate Gun (In normal mode)                            |
 | **A / D**                | Move Left/Right (In Cheat mode)                        |
-| **Left Mouse Click** 🔌  | Fire Bullet                                            |
-| **Right Mouse Click** 🔍 | Toggle Camera Mode (Third-Person / First-Person)       |
-| ⬆️⬇️⬅️➡️                 | Adjust Camera Height & Angle                           |
+| **Left Mouse Click**     | Fire Bullet                                            |
+| **Right Mouse Click**    | Toggle Camera Mode (Third-Person / First-Person)       |
+| ⬆️⬇️⬅️➡️               | Adjust Camera Height & Angle                           |
 | **C**                    | Toggle Cheat Mode                                      |
 | **V**                    | Toggle Auto Camera (Only in Cheat Mode + First-Person) |
 | **R**                    | Restart Game After Game Over                           |
